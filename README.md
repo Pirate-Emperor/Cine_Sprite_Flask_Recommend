@@ -46,7 +46,7 @@ Visit the URL in your web browser and start exploring the movie recommendations.
 
 ## Data Source
 
-The project uses a dataset of movie information and user ratings to train the ML model. You can update the dataset to include the latest movie information.
+The project uses a dataset of movie information and user ratings to train the ML model.
 
 ## Development
 
