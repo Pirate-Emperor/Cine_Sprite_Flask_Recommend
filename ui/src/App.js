@@ -77,8 +77,8 @@ class App extends Component {
                 <Form.Label>Text Field 1</Form.Label>
                 <Form.Control 
                   type="text" 
-                  placeholder="Text Field 1" 
-                  name="textfield1"
+                  placeholder="Genre" 
+                  name="Gnere"
                   value={formData.textfield1}
                   onChange={this.handleChange} />
               </Form.Group>
@@ -86,8 +86,8 @@ class App extends Component {
                 <Form.Label>Text Field 2</Form.Label>
                 <Form.Control 
                   type="text" 
-                  placeholder="Text Field 2" 
-                  name="textfield2"
+                  placeholder="Tags" 
+                  name="Tags"
                   value={formData.textfield2}
                   onChange={this.handleChange} />
               </Form.Group>
@@ -98,7 +98,7 @@ class App extends Component {
                 <Form.Control 
                   as="select"
                   value={formData.select1}
-                  name="select1"
+                  name="Intensity"
                   onChange={this.handleChange}>
                   <option>1</option>
                   <option>2</option>
@@ -111,7 +111,7 @@ class App extends Component {
                 <Form.Control 
                   as="select"
                   value={formData.select2}
-                  name="select2"
+                  name="Seldom"
                   onChange={this.handleChange}>
                   <option>1</option>
                   <option>2</option>
@@ -124,7 +124,7 @@ class App extends Component {
                 <Form.Control 
                   as="select"
                   value={formData.select3}
-                  name="select3"
+                  name="World Building"
                   onChange={this.handleChange}>
                   <option>1</option>
                   <option>2</option>
