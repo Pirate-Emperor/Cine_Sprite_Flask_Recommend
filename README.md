@@ -14,9 +14,8 @@ Developed by Pirate-Emperor, Cine_Sprite_Flask_Recommend is a simple web applica
 
 Experience the Cine Sprite Flask Recommend App through the following screenshots:
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
+![Screenshot 1](example/screenshot1.png)
+![Screenshot 2](example/screenshot2.png)
 
 ## Prerequisites
 
