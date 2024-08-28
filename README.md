@@ -10,6 +10,14 @@ Developed by Pirate-Emperor, Cine_Sprite_Flask_Recommend is a simple web applica
 - **Search Functionality**: Allows users to search for movies based on keywords or titles.
 - **User Authentication**: Provides a secure user authentication system for personalized recommendations.
 
+## Screenshots
+
+Experience the Cine Sprite Flask Recommend App through the following screenshots:
+
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
+
 ## Prerequisites
 
 To run the project, you will need:
