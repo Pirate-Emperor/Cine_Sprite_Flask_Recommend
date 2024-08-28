@@ -41,7 +41,7 @@ cd service
 flask run app.py
 ```
 
-The web application will be running on `http://127.0.0.1:5000/`.
+The backend application will be running on `http://127.0.0.1:5000/`.
 
 Run the Frontend application:
 
@@ -49,6 +49,8 @@ Run the Frontend application:
 cd ui
 npm start
 ```
+
+The web application will be running on `http://127.0.0.1:3000/`.
 
 Visit the URL in your web browser and start exploring the movie recommendations.
 
