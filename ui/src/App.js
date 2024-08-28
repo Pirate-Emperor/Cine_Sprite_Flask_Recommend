@@ -74,7 +74,7 @@ class App extends Component {
           <Form>
             <Form.Row>
               <Form.Group as={Col}>
-                <Form.Label>Text Field 1</Form.Label>
+                <Form.Label>Genre</Form.Label>
                 <Form.Control 
                   type="text" 
                   placeholder="Genre" 
@@ -83,7 +83,7 @@ class App extends Component {
                   onChange={this.handleChange} />
               </Form.Group>
               <Form.Group as={Col}>
-                <Form.Label>Text Field 2</Form.Label>
+                <Form.Label>Tags</Form.Label>
                 <Form.Control 
                   type="text" 
                   placeholder="Tags" 
@@ -94,7 +94,7 @@ class App extends Component {
             </Form.Row>
             <Form.Row>
               <Form.Group as={Col}>
-                <Form.Label>Select 1</Form.Label>
+                <Form.Label>Intensity</Form.Label>
                 <Form.Control 
                   as="select"
                   value={formData.select1}
@@ -107,7 +107,7 @@ class App extends Component {
                 </Form.Control>
               </Form.Group>
               <Form.Group as={Col}>
-                <Form.Label>Select 2</Form.Label>
+                <Form.Label>Seldom</Form.Label>
                 <Form.Control 
                   as="select"
                   value={formData.select2}
@@ -120,7 +120,7 @@ class App extends Component {
                 </Form.Control>
               </Form.Group>
               <Form.Group as={Col}>
-                <Form.Label>Select 3</Form.Label>
+                <Form.Label>World Building</Form.Label>
                 <Form.Control 
                   as="select"
                   value={formData.select3}
