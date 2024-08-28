@@ -37,10 +37,18 @@ pip install -r requirements.txt
 Run the Flask app:
 
 ```bash
-python app.py
+cd service
+flask run app.py
 ```
 
 The web application will be running on `http://127.0.0.1:5000/`.
+
+Run the Frontend application:
+
+```bash
+cd ui
+npm start
+```
 
 Visit the URL in your web browser and start exploring the movie recommendations.
 
